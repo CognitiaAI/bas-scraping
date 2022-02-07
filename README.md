@@ -12,3 +12,9 @@ This channel i.e. https://www.youtube.com/c/BASWorld/videos has more than 30K vi
 5. Run scrapy crawl bastrucks which will scrape whole website to generate an excel file having all the relevant data being populated.
 6. Run scrapy crawl docdownloader to download all the documents.
 7. Run scrapy crawl imagedownloader to download all the images.
+
+# Demo:
+
+
+https://user-images.githubusercontent.com/30326715/152875020-358f7840-6ebc-46b8-920a-c93ffb96d751.mp4
+
